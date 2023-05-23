@@ -68,3 +68,7 @@
 .page-end {
     padding-bottom: 128px;
 }
+
+.section-end {
+    margin-bottom: 32px;
+}
